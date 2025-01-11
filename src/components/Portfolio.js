@@ -197,7 +197,7 @@ const Portfolio = () => {
                 height="150"
               />
               <h1 className="text-4xl md:text-6xl font-bold text-sky-200 mb-4">
-                Your Name
+                Mark Jundy P. Juaton
               </h1>
               <p className="text-xl text-gray-300 mb-8">
                 Full Stack Developer | Database Designer and Developer
