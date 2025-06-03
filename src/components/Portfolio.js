@@ -200,7 +200,7 @@ const Portfolio = () => {
                 Mark Jundy P. Juaton
               </h1>
               <p className="text-xl text-gray-300 mb-8">
-                Full Stack Developer | Database Designer and Developer
+                Web Developer | Full Stack Developer
               </p>
               <div className="flex justify-center space-x-4 mb-8">
                 <a 
